@@ -1,4 +1,4 @@
-console.log(` we are learning For, Which, Do which loops in JS!`);
+console.log(` we are learning For, While, Do while loops in JS!`);
 // genaral loops : FOR, WHILE, DO-WHILE
 let a = 5;
 a += 2;
